@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="GzHBuG8_AoLVXcm4fyUO" name="Page-1">
+        <mxGraphModel dx="1936" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="19" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=18;fillColor=#0C1445;gradientColor=none;shadow=1;gradientDirection=east;" vertex="1" parent="1">
+                    <mxGeometry x="80" width="700" height="1170" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=44;fontColor=#FF0000;fillColor=#0C1445;gradientColor=#5C54A4;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="730" width="700" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=44;fontColor=#FF0000;fillColor=#0C1445;gradientColor=#5C54A4;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="460" width="700" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#ccffff&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Hi! My name is Jean. I am software developer and a gamer.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=44;fontColor=#FF0000;fillColor=#0c1445;gradientColor=#5c54a4;gradientDirection=south;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="190" width="700" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#7F00FF;strokeColor=#996185;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="20" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="About Me" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="15" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Projects" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="15" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Contact Me" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="15" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Jean Suwatcharoenchai&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#4800AD;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="40" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-size: 44px&quot;&gt;&lt;font style=&quot;font-size: 44px&quot;&gt;Prepare to Debug&lt;/font&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Lucida Console;fontSize=44;fontColor=#FFD700;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="85" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font style=&quot;font-size: 16px&quot;&gt;About Me&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=28;fontColor=#ffffff;fillColor=#82B3BA;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="175" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Projects&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=28;fontColor=#ffffff;fillColor=#82B3BA;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="440" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Resume&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=28;fontColor=#ffffff;fillColor=#82B3BA;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="710" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Resume" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="15" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=44;fontColor=#FF0000;fillColor=#0C1445;gradientColor=#5C54A4;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="950" width="700" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Contact Me&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=28;fontColor=#ffffff;fillColor=#82B3BA;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="940" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Insert Screenshot Here" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="490" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Insert Screenshot Here" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="565" y="490" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Insert Screenshot Here" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="490" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;b&gt;Email:&lt;/b&gt; ns46@uw.edu" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="960" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;b&gt;GitHub:&lt;/b&gt;&amp;nbsp;github.com/JeanSuw" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="990" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;b&gt;Linkedin:&lt;/b&gt;&amp;nbsp;linkedin.com/in/jeansuwatcharoenchai/" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#CCFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="1020" width="290" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
