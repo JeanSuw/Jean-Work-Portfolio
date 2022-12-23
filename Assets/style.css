@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(68, 5, 68);
+    color: rgb(121, 157, 154);
+    
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+}
+
+.nav a {
+    padding: 8px 12px;
+    color: inherit;
+}
+
+.portforlio-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.portforlio-grid-item {
+    flex-grow: 1;
+    background-color: aquamarine;
+    width: calc(50%-5px);
+    /* padding: 15px; */
+    margin-bottom: 10px;
+    
+}
+
+.hero-item{
+    width: 100%;
+}
