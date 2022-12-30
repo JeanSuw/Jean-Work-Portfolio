@@ -12,3 +12,4 @@ Code Snippets and Guides to make this website happen.
 * [CSS Borders](https://www.w3schools.com/css/css3_borders.asp)
 * [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)
 * [CSS List](https://www.w3schools.com/css/css_list.asp)
+* [CSS Email links](https://www.brainbell.com/tutorials/HTML_and_CSS/Email_Links.htm)

@@ -95,14 +95,23 @@ ol li{
 .about-me{
     height: 200px;
 }
+.project{
+    height: 150px;
 
+}
+.resume{
+    height: 150px;
+}
 .contact{
     height: 150px;
     padding: 5%;
 }
 
 
-.about-me, 
+
+.about-me,
+.project,
+.resume, 
 .contact {
     background-image: linear-gradient(var(--night),var(--royalpurple));
     color: var(--lightblue);
