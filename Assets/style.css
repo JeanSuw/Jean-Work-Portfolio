@@ -3,6 +3,7 @@
     --white: #fff;
     --night: #0C1445;
     --gold: #FFD700;
+    --mudblue: #82B3BA;
     background-color: var(--night);
 }
 
@@ -33,7 +34,7 @@ h1{
     font-size: 170%;
     color: var(--white);
 
-    /* Todo: add box behind name text */
+    /* Todo: add box (decoration) behind name text */
 }
 
 h2{
@@ -43,6 +44,15 @@ h2{
     font-weight: bold;
     color: var(--gold);
     text-align: center;
+}
+
+h3{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-bottom: 5%;
+    font-size: 150%;
+    color: var(--white);
+    background-color: var(--mudblue);
 }
 
 .navbar {
@@ -63,6 +73,18 @@ h2{
     padding: 8px 12px;
     color: inherit;
 }
+
+/* Blue box for 4 headers*/
+.box-header {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--mudblue);
+    width: 200px;
+    height: 50px;
+    border: 10px;
+    margin-right: auto;
+}
+
 
 .portforlio-grid {
     display: flex;
