@@ -11,3 +11,4 @@ Code Snippets and Guides to make this website happen.
 * [CSS Box Sizing](https://www.w3schools.com/css/css3_box-sizing.asp)
 * [CSS Borders](https://www.w3schools.com/css/css3_borders.asp)
 * [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)
+* [CSS List](https://www.w3schools.com/css/css_list.asp)
