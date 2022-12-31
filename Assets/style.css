@@ -92,6 +92,14 @@ ol li{
     margin-bottom: 0%; /* Putting spaces between headers, remove it later*/
 }
 
+#my-avatar{
+    position: absolute;
+    top: 40%;
+    right: 12%;
+    width: 230px;
+    height: 200px;
+}
+
 .about-me{
     height: 200px;
 }
