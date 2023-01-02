@@ -2,7 +2,7 @@
 
 ## Description
 The purpose of this website is to present the empty portfolio related to bootcamp challenge and assignments for the potential recruiters. New project links will be added later on as I continued my study during coding bootcamp. 
-For now you are expected to see a lot of non-functional links in portfolio sections.
+For now you are expected to see two functional links in the project section. The other images are the placeholders.
 
 ## Links
 * [Github content of Jean's homepage website](https://github.com/JeanSuw/Jean-Work-Portfolio)
@@ -12,6 +12,7 @@ For now you are expected to see a lot of non-functional links in portfolio secti
 When you click on the second link, Jean's Homepage, it will lead you to my homepage. On your first glance, you will see three things: my name, a dark soul parody catchphrase, "Prepare to debug" (instead of "Prepare to die"), and a picture of my cat which serves as my avartar. 
 
 On the top right corner, you will see four options on what you want from this website. You can click on one of them and it will lead you to the section that is corresponding to its name.
+
 
 ## Acknowledgments
 Code Snippets and Guides to make this website happen.
