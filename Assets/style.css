@@ -15,7 +15,6 @@ body {
 }
 
 header{
-    /* Not sure if we are using it */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -35,8 +34,6 @@ h1{
     /* my name */
     font-size: 170%;
     color: var(--white);
-
-    /* Todo: add box (decoration) behind name text */
 }
 
 h2{
@@ -57,6 +54,7 @@ h3{
     background-color: var(--mudblue);
 }
 
+/* 4 white texts on top right corner */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -74,6 +72,8 @@ h3{
     padding: 8px 12px;
     color: inherit;
 }
+
+/* Color box for list in contact me */
 ol li{
     background: var(--royalpurple);
     
@@ -89,9 +89,10 @@ ol li{
     height: 50px;
     border: 10px;
     margin-right: auto;
-    margin-bottom: 0%; /* Putting spaces between headers, remove it later*/
+    margin-bottom: 0%; 
 }
 
+/* Profile picture*/
 #my-avatar{
     position: absolute;
     top: 15%;
@@ -100,6 +101,7 @@ ol li{
     height: 200px;
 }
 
+/* Height of the gradient box for each sections */
 .about-me{
     height: 300px;
 }
@@ -115,8 +117,7 @@ ol li{
     padding: 5%;
 }
 
-
-
+/* The width and front sizes for the purple gradient boxes*/
 .about-me,
 .project,
 .resume, 
