@@ -76,7 +76,6 @@ h3{
 /* Color box for list in contact me */
 ol li{
     background: var(--royalpurple);
-    
 }
 
 /* Blue box for 4 headers*/
@@ -107,7 +106,6 @@ ol li{
 }
 .project{
     height: 400px;
-
 }
 .resume{
     height: 150px;
