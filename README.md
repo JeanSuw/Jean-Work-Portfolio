@@ -23,3 +23,6 @@ Code Snippets and Guides to make this website happen.
 * [CSS Email Links](https://www.brainbell.com/tutorials/HTML_and_CSS/Email_Links.htm)
 * [CSS Jumping Anchor Link](https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html)
 * [CSS Positioning](https://www.w3schools.com/css/css_positioning.asp)
+* [CSS Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+* [CSS Flexbox sample](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox)

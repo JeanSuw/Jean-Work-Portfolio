@@ -107,6 +107,7 @@ ol li{
 .project{
     height: 400px;
 }
+
 .resume{
     height: 150px;
 }
@@ -127,21 +128,53 @@ ol li{
     padding: 50px;
 }
 
+/* Outerbox of the portfolio lis */
+.portforlio-list-box{
+    display: flex;
+    background-image: linear-gradient(var(--night),var(--royalpurple));
+    color: var(--lightblue);
+    width: 1300px;
+}
+
+.portforlio-list-box > div {
+    background-color: #5C54A4;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+
+}
+
+#portforlio-image{
+    position: absolute;
+    top: 100%;
+    right: 10%;
+    width: 200px;
+    height: 200px;
+}
+
+/* 
 .portforlio-grid {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
+    position: absolute;
+    
 }
-
+*/
+/*
 .portforlio-grid-item {
     flex-grow: 1;
     background-color: aquamarine;
     width: calc(50%-5px);
-    /* padding: 15px; */
+    
+    padding: 15px;
     margin-bottom: 10px;
 }
 
 .hero-item{
     width: 100%;
 }
+
+*/
