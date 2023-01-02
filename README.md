@@ -6,7 +6,7 @@ For now you are expected to see a lot of non-functional links in portfolio secti
 
 ## Links
 * [Github content of Jean's homepage website](https://github.com/JeanSuw/Jean-Work-Portfolio)
-* [Jean's Homepage]()
+* [Jean's Homepage](https://jeansuw.github.io/Jean-Work-Portfolio/)
 
 ## Useage
 When you click on the second link, Jean's Homepage, it will lead you to my homepage. On your first glance, you will see three things: my name, a dark soul parody catchphrase, "Prepare to debug" (instead of "Prepare to die"), and a picture of my cat which serves as my avartar. 
