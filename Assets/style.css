@@ -126,12 +126,26 @@ ol li{
     padding: 50px;
 }
 
-#portforlio-image{
+#portforlio-image-one,
+#portforlio-image-two,
+#portforlio-image-three,
+#portforlio-image-four{
+    top: 103%;
     position: absolute;
-    top: 100%;
-    right: 10%;
-    width: 200px;
-    height: 200px;
+    width: 270px;
+    height: 240px;
+}
+#portforlio-image-one{
+    left: 2%;
+}
+#portforlio-image-two{
+    left: 25%;
+}
+#portforlio-image-three{
+    left: 48%;
+}
+#portforlio-image-four{
+    left: 70%;
 }
 
 /* Outerbox of the portfolio list */
@@ -145,7 +159,7 @@ ol li{
 .portforlio-list-box > div {
     background-color: #5C54A4;
     width: 500px;
-    height: 300px;
+    height: 350px;
     margin: 10px;
     padding: 20px;
     font-size: 30px;

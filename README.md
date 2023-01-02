@@ -26,3 +26,4 @@ Code Snippets and Guides to make this website happen.
 * [CSS Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 * [CSS Flexbox sample](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox)
+* [CSS HTML Target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
