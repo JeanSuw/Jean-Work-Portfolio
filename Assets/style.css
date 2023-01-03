@@ -80,11 +80,13 @@ h3{
 ol li{
     background: var(--royalpurple);
 }
-
-/* Blue box for 4 headers*/
-.box-header {
+.box-header,
+.portforlio-list-box{
     display: flex;
     flex-wrap: wrap;
+}
+/* Blue box for 4 headers*/
+.box-header {
     background-color: var(--mudblue);
     border-radius: 15px;
     width: 200px;
@@ -103,29 +105,17 @@ ol li{
     height: 26%;
 }
 
-/* Height of the gradient box for each sections */
-.about-me{
-    height: 50%;
-}
-
-.resume{
-    height: 50%;
-}
-.contact{
-    height: 50%;
-    padding: 5%;
-}
-
-/* The width and front sizes for the purple gradient boxes*/
+/* The width, height and front sizes for the purple gradient boxes */
 .about-me,
 .project,
 .resume, 
 .contact {
     background-image: linear-gradient(var(--night),var(--royalpurple));
     color: var(--lightblue);
-    width: 95%;
-    font-size: 120%;
+    width: 96%;
+    height: 50%;
     padding: 4%;
+    font-size: 120%;
 }
 
 #portforlio-image-one,
@@ -152,16 +142,14 @@ ol li{
 
 /* Outerbox of the portfolio list */
 .portforlio-list-box{
-    display: flex;
-    flex-wrap: wrap;
     background-image: linear-gradient(var(--night),var(--royalpurple));
     color: var(--lightblue);
-    width: 95%;
+    width: 96%;
 }
 
 .portforlio-list-box > div {
     background-color: #5C54A4;
-    width: 47%;
+    width: 48%;
     margin: 10px;
     padding: 20px;
     font-size: 160%;
