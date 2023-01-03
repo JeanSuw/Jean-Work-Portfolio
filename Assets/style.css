@@ -133,31 +133,27 @@ ol li{
 #portforlio-image-three,
 #portforlio-image-four{
     display: flex;
-    flex-direction: row;
-    width: 99%;
-    height: 60%;
+    flex-wrap: wrap;
+    width: 100%;
+    left: 5%;
 }
 #portforlio-image-one{
     top: 103%;
-    left: 2%;
 }
 #portforlio-image-two{
     top: 150%;
-    left: 2%;
 }
 #portforlio-image-three{
     top: 195%;
-    left: 2%;
 }
 #portforlio-image-four{
     top: 245%;
-    left: 2%;
 }
 
 /* Outerbox of the portfolio list */
 .portforlio-list-box{
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     background-image: linear-gradient(var(--night),var(--royalpurple));
     color: var(--lightblue);
     width: 95%;
@@ -165,8 +161,7 @@ ol li{
 
 .portforlio-list-box > div {
     background-color: #5C54A4;
-    width: 99%;
-    height: 100%;
+    width: 47%;
     margin: 10px;
     padding: 20px;
     font-size: 160%;
