@@ -118,10 +118,15 @@ ol li{
     font-size: 120%;
 }
 
+#big-image{
+    width: 97%;
+}
+
 #portforlio-image-one,
 #portforlio-image-two,
 #portforlio-image-three,
-#portforlio-image-four{
+#portforlio-image-four,
+#portforlio-image-five{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
@@ -138,6 +143,9 @@ ol li{
 }
 #portforlio-image-four{
     top: 245%;
+}
+#portforlio-image-five{
+    top: 345%
 }
 
 /* Outerbox of the portfolio list */
