@@ -16,6 +16,8 @@ On the top right corner, you will see four options on what you want from this we
 
 On the project section, you can click on any images and it will opens a new tab. The first two screenshot will lead you to the previous projects, while the other two lead you to Youtube video. The choice is yours, you are welcome to find out.
 
+![WebsiteScreenshot]()
+
 ## Acknowledgments
 Code Snippets and Guides to make this website happen.
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
