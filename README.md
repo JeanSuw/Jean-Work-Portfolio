@@ -2,7 +2,8 @@
 
 ## Description
 The purpose of this website is to present the empty portfolio related to bootcamp challenge and assignments for the potential recruiters. New project links will be added later on as I continued my study during coding bootcamp. 
-For now you are expected to see two functional links in the project section. The other images are the placeholders.
+
+For now you are expected to see two functional links in the project section. The other images are the placeholders for future project. You are welcome to click any image. Find out where it takes you.
 
 ## Links
 * [Github content of Jean's homepage website](https://github.com/JeanSuw/Jean-Work-Portfolio)
@@ -13,6 +14,7 @@ When you click on the second link, Jean's Homepage, it will lead you to my homep
 
 On the top right corner, you will see four options on what you want from this website. You can click on one of them and it will lead you to the section that is corresponding to its name.
 
+On the project section, you can click on any images and it will opens a new tab. The first two screenshot will lead you to the previous projects, while the other two lead you to Youtube video. The choice is yours, you are welcome to find out.
 
 ## Acknowledgments
 Code Snippets and Guides to make this website happen.
@@ -28,3 +30,6 @@ Code Snippets and Guides to make this website happen.
 * [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 * [CSS Flexbox sample](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox)
 * [CSS HTML Target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
+* [CSS Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+* 03-Ins_Flexbox-Layout
+* 07-Ins_Flexbox-Placement
